@@ -37,5 +37,5 @@
 - **AWS Certified Solution Architect:** Associate (Udemy) 
 
 ## 📫 Reach Me:
-- LinkedIn: [linkedin.com/in/your-profile](#)
+- LinkedIn: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/hardik-kangane-92a170230/)](#)
 - Email: hardikkangane@gmail.com
