@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hardik – DevOps Engineer
 
-🔧 I specialize in building scalable, secure, and automated infrastructure using DevOps tools and best practices.
+🔧 Highly curious and motivated toward DevOps and security — learning, growing, and building reliable, secure, and automated infrastructure.
 
 <h2 align="left">🧰 Tech Stack:</h2>
 <p align="left">
