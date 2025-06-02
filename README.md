@@ -37,7 +37,7 @@
 - **AWS Certified Solution Architect:** Associate (Udemy) 
 
 ## My Badage
-<a href="https://www.credly.com/badges/326f6ae0-4fbc-4142-be10-eeddaacec604/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="bash" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/326f6ae0-4fbc-4142-be10-eeddaacec604/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" alt="bash" width="180" height="180"/></a>
 
 
 ## 📫 Reach Me:
