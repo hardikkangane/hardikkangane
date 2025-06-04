@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Hardik – DevOps Engineer
+<!-- # 👋 Hi, I'm Hardik – DevOps Engineer -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06F705&width=435&lines=%24+Hi%2C+I'm+Hardik+%E2%80%93+DevOps+Engineer" alt="Typing SVG" /></a>
 
 🔧 I specialize in building scalable, secure, and automated infrastructure using DevOps tools and best practices.
+
 
 ## 🧰 Tech Stack:
 - ☁️ **Cloud**: AWS, DigitalOcean
