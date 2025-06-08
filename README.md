@@ -27,5 +27,5 @@
 
 
 ## 📫 Reach Me:
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/hardikkangane/)
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/hardikkangane/)
 - Email: hardikkangane@gmail.com
