@@ -22,14 +22,13 @@
 - **Nginx:** Beginner to Advanced (Udemy) 
 - **AWS Certified Solution Architect:** Associate (Udemy) 
 
-## My Badge
+## My Badges
 <a href="https://www.credly.com/badges/326f6ae0-4fbc-4142-be10-eeddaacec604/public_url">
   <img src="./badges/hashicorp-certified-vault-associate-002.png" alt="AWS Badge" width="120" height="120">
 </a>
 
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
-### AWS Badge
 <a href="https://www.credly.com/badges/0545ded9-4afd-407d-a16f-10e8e1c16a3b/public_url">
   <img src="./badges/aws-educate-getting-started-with-compute-training-b.png" alt="AWS Badge" width="120" height="120">
 </a>
